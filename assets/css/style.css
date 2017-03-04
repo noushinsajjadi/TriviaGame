@@ -1,0 +1,43 @@
+body {
+	background-image: url(../images/trival.jpg);
+}
+.Main {
+	width: 70%;
+	height:auto;
+	background-color:#FFF17A;
+}
+h1{
+
+  font-family: 'Geo', sans-serif;
+  font-size:30px;
+  font-weight: bold;
+  color:blue;
+  padding-top: 2.5%;
+}
+
+#Submain{
+  top:15%;
+  font-size:25px;
+}
+form
+{
+	text-align: left;
+}
+.CbtnStart
+{
+	 height:450px;
+}
+#BtnStart{
+  width:50%;
+  height:20%;
+  margin-top:10%;
+  border:none;
+  cursor: pointer;
+  background-color: pink;
+  font-size: 70px;;
+}
+
+
+
+
+
